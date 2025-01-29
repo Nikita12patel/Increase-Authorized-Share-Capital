@@ -13,3 +13,5 @@ Total Value: Nominal Capital signifies the maximum amount of capital a Company c
 
 Par Value per Share: This denotes the nominal value assigned to each share & sets a minimum issuance price. Remember that Par Value may not necessarily show the market value of the shares.
 
+To know more, visit at:https://www.registerkaro.in/private-limited-company-compliance
+
